@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+        <net-file value="C:\Users\Parv Malhotra\Desktop\traffic\hello.net.xml"/> <!-- Path to your network file -->
+        <route-files value="C:\\Users\\Parv Malhotra\\Desktop\\traffic\\routes.rou.xml"/> <!-- Path to your routes file -->
+    </input>
+    <time>
+        <begin value="0"/> <!-- Start time of simulation -->
+        <end value="1000"/> <!-- End time of simulation -->
+    </time>
+</configuration>

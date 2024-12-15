@@ -1,0 +1,7 @@
+<routes>
+    <vType id="car" accel="1.0" decel="4.5" sigma="0.5" length="5.0" maxSpeed="50" />
+    <vType id="truck" accel="0.8" decel="3.5" sigma="0.5" length="10.0" maxSpeed="30" />
+    
+    <!-- Define the route -->
+    <route id="route1to2" edges="1to2" />
+</routes>
